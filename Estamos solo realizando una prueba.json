@@ -1,0 +1,15 @@
+{"metadata": {"messageType": "Request", 
+    "messageId": "e13a7e3e-7a59-40ea-b899-5a0f7f02cdcc",
+      "shortMessageId": "e13a7e3e-7a59-4",
+      "applicationId": "moduloLiquidacion",
+      "serviceId": "2500103",
+      "datetime": "20210325182000"
+      },
+      "data": {
+        "fechaEjecucion": "20210426",
+        "fechaProcesa": "20210211",
+        "nombreArchivo": "PTDA0211004",
+        "tipoProceso": "2",
+        "tipo2":"3"
+        }
+      }
